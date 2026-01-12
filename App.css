@@ -1,0 +1,11 @@
+.card {
+  @apply bg-gray-800 border border-gray-700 rounded-lg p-5 mb-4;
+}
+
+.input {
+  @apply bg-gray-800 border border-gray-700 rounded px-3 py-2 w-full;
+}
+
+.button {
+  @apply bg-blue-600 hover:bg-blue-500 text-white px-4 py-2 rounded;
+}
