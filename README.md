@@ -10,7 +10,8 @@ A React + Vite based personal growth content platform featuring:
 - 🚀 Deployed on Vercel
 
 ## Live Demo
-(Will be added after deployment)
+https://self-sync-personal-growth-content-p-ten.vercel.app
+
 
 ## Tech Stack
 - React
